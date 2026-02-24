@@ -1,6 +1,6 @@
-# Hi, I'm Merey 👋
+# Hi, I'm Merey 
 
-## 🚀 Junior Software Engineer
+## Junior Software Engineer
 
 Computer Engineering student with international academic experience (Erasmus – Poland, Orhun Exchange Program).
 
@@ -11,19 +11,19 @@ Passionate about:
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 Python | C++ | Kotlin | Java  
 PyTorch | Flask | SQL | Git  
 
 ---
 
-## 🧠 Featured Projects
+##  Featured Projects
 - Dino vs Dragon CNN Classifier
 - AI Handwritten Digit Recognition
 - Android Chess Application
 
 ---
 
-## 📫 Contact
-LinkedIn: (add your link here)
+##  Contact
+LinkedIn: ()
 GitHub: https://github.com/merey-tech
